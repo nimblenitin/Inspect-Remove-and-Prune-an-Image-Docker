@@ -1,0 +1,1 @@
+# Inspect-Remove-and-Prune-an-Image-Docker
